@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "sta301a")(type "KiCad")(uri "/home/user/.config/kicad/ownimports/sta301a.kicad_sym")(options "")(descr ""))
+  (lib (name "esptest-rescue")(type "Legacy")(uri "/home/user/Documents/esptest/esptest-rescue.lib")(options "")(descr ""))
+)
