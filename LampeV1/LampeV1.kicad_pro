@@ -393,7 +393,7 @@
       },
       {
         "bus_width": 12.0,
-        "clearance": 1.0,
+        "clearance": 0.6,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -402,12 +402,7 @@
         "microvia_drill": 0.1,
         "name": "AC",
         "nets": [
-          "AC",
-          "Net-(J2-Pad1)",
-          "Net-(Q7-Pad2)",
-          "Net-(R10-Pad2)",
-          "Net-(R11-Pad2)",
-          "Net-(R9-Pad2)"
+          "AC"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
